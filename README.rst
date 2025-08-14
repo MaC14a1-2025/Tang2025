@@ -119,21 +119,19 @@ Generated Visualizations
 
 Sample Output
 -------------
-.. image:: https://raw.githubusercontent.com/yourusername/xgboost-time-series-classification/main/xgboost_plots/03_roc_curves.svg
+.. image:: https://github.com/MaC14a1-2025/Tang2025/blob/main/xgboost-output/02_feature_importance.svg
    :width: 45%
-   :alt: ROC Curves
+   :alt: feature_importance
 
-.. image:: https://raw.githubusercontent.com/yourusername/xgboost-time-series-classification/main/xgboost_plots/05_confusion_matrix.svg
+.. image:: https://github.com/MaC14a1-2025/Tang2025/blob/main/xgboost-output/08_learning_curve.svg
    :width: 45%
-   :alt: Confusion Matrix
+   :alt: learning_curve
 
-.. image:: https://raw.githubusercontent.com/yourusername/xgboost-time-series-classification/main/xgboost_plots/07_performance_radar.svg
+.. image:: https://github.com/MaC14a1-2025/Tang2025/blob/main/xgboost-output/19_performance_report_table.svg
    :width: 45%
-   :alt: Performance Radar
+   :alt: performance_report_table
 
-.. image:: https://raw.githubusercontent.com/yourusername/xgboost-time-series-classification/main/xgboost_plots/17_correlation_network.svg
-   :width: 45%
-   :alt: Correlation Network
+
 
 Customization
 -------------
