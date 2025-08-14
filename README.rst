@@ -1,4 +1,4 @@
-XGBoost Time Series Binary Classification
+AI-enhanced CRISPR/Cas12a aptasensor for rapid and ultrasensitive detection of kanamycin in milk
 =========================================
 
 .. image:: https://img.shields.io/badge/Python-3.7%2B-blue
@@ -8,7 +8,7 @@ XGBoost Time Series Binary Classification
 .. image:: https://img.shields.io/badge/Library-scikit--learn-yellowgreen
    :target: https://scikit-learn.org/
 
-Advanced XGBoost implementation for time series binary classification with comprehensive performance analysis and visualization capabilities.
+This repository is associated with the paper "AI-enhanced CRISPR/Cas12a aptasensor for rapid and ultrasensitive detection of kanamycin in milk". The repository provides the key code and tools used in the paper, facilitating reproducibility and further research in this area. Advanced XGBoost implementation for time series binary classification with comprehensive performance analysis and visualization capabilities.
 
 Features
 --------
